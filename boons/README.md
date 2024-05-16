@@ -43,7 +43,7 @@ Allies will provide 5 stacks constantly.
 
 ## Fury
 
-- + 20% critical chance
+- +20% critical chance
 - Usually the healer's job.
 
 Druid uses warhorn 5 as their main fury source. They can also take a
@@ -71,7 +71,7 @@ Note many EoD specs will do at least some fury for themselves.
 
 ## Alacrity
 
-- + 25% skill recharge rate
+- +25% skill recharge rate
 - Usually provided by a mechanist, mirage, ranger, renegade, tempest or
 spectre.
 
@@ -97,7 +97,7 @@ Spectre provides alacrity using their wells.
 
 ## Quickness
 
-- + 50% attack and action speed
+- +50% attack and action speed
 - Usually provided by catalysts, chronomancers, firebrands, harbingers,
 heralds, scrappers or warriors.
 
