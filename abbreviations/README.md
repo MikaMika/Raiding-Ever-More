@@ -32,7 +32,7 @@ dps if the tank is a heal.
 
 **Heal** - any class with a heal spec. Healers are usually expected to
 do boons, but check the rest of the composition for what is needed. You
-can find the various heal classes in [healers](../healers/healers.md).
+can find the various heal classes in [healers](../healers/).
 
 **Kite** - a class which can self sustain and/or attack from range.
 There are various kite roles - Sabetha (flak kiting), Deimos (see
@@ -47,7 +47,7 @@ reaper, spellbreaker/berserker, scourge, daredevil (usually as a duo).
 harbinger). As with alac, can be split into "dpsquick" or "healquick".
 Often "quick" on its own will mean "dpsquick". Firebrand, catalyst and
 scrapper are your heal variants and all 4 classes have dps variants.
-Also see [boons](../boons/boons.md).
+Also see [boons](../boons/).
 
 **Push** - mostly a role at Soulless Horror (done most often by a druid
 though other classes *can* do it) to push the Tormented Dead golem guy.
