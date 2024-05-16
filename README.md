@@ -1,6 +1,6 @@
 # Raiding-Ever-More
 ## Helpful Info
-- [abbreviation](abbreviation)
+- [abbreviations](abbreviations)
 - [boons](boons)
 - [food-and-utility](food-and-utility)
 - [gearing](gearing)
